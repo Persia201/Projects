@@ -1,4 +1,4 @@
-package Projects.DigiLock;
+package Projects.DigiClock;
 import java.util.*;
 
 public class DigitalClock {
